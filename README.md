@@ -13,5 +13,8 @@ Jumpstart on SageMaker:
 - [Llama 2 foundation models from Meta are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/llama-2-foundation-models-from-meta-are-now-available-in-amazon-sagemaker-jumpstart/)
 - [Fine-tune Llama 2 for text generation on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart/)
 
+Huggingface and SageMaker:
+- [Notebooks](https://github.com/huggingface/notebooks/tree/main/sagemaker)
+
 Inferentia on SageMaker:
-- [](https://github.com/aws-neuron/aws-neuron-samples/blob/master/torch-neuronx/README.md#inference)
+- [PyTorch Neuron (torch-neuronx) Samples for AWS Trn1/Trn1n & Inf2 Instances](https://github.com/aws-neuron/aws-neuron-samples/blob/master/torch-neuronx/README.md#inference)
